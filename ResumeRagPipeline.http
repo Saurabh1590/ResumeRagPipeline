@@ -1,0 +1,6 @@
+@ResumeRagPipeline_HostAddress = http://localhost:5083
+
+GET {{ResumeRagPipeline_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
